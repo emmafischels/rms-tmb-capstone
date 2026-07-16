@@ -7,6 +7,30 @@ This project aims to develop a reproducible Python-based data analysis and visua
 
 Rather than producing a single static analysis, this project is being developed as a reusable application capable of generating multiple visualization and statistical summaries from uploaded datasets. 
 
+### Progress Updates for Capstone - Capstone Checkpoint ###
+## Current Progress 
+
+The following components have been completed:
+
+* Project directory structure created
+* Conda environment configuration (environment.yml)
+* Python package requirements (requirements.txt)
+* Automated OSC setup script (setup_env.sh)
+* Jupyter kernel registration for the project environment
+* Dataset uploaded to the project directory
+* GitHub repository initialized for version control
+
+## Remaining 
+* Complete data cleaning and preprocessing.
+* Perform statistical analyses examining the relationship between TMB and overall survival.
+* Generate visualizations and finalize interpretation of results.
+* Document the final workflow and results.
+
+## Blockers 
+* Had an initial Git/Github authentication and repository synchronization issues while setting up the repository
+  * As of now, there are no current blockers preventing analysis progress
+* It was initially difficult to setup the environment since I did not know exactly what would be needed to eventually generate my desired output 
+
 ## Research Objectives 
 
 The primary objective of this project is to investigate whether pediatric rhabdomyosarcoma patients with higher tumor mutational burden demonstrate different overall survival compared to patients with lower tumor mutational burden.
@@ -34,18 +58,6 @@ The dataset contains clinical and genomic variables including, but not limited t
 * Tumor Purity
 * Demographic variables
 
-
-## Current Progress 
-
-The following components have been completed:
-
-* Project directory structure created
-* Conda environment configuration (environment.yml)
-* Python package requirements (requirements.txt)
-* Automated OSC setup script (setup_env.sh)
-* Jupyter kernel registration for the project environment
-* Dataset uploaded to the project directory
-* GitHub repository initialized for version control
 
 ## Software Requirements 
 
