@@ -1,0 +1,39 @@
+name: rms-tmb-capstone
+
+channels:
+
+  - conda-forge
+
+  - defaults
+
+dependencies:
+
+  - python=3.10
+
+  - pandas
+
+  - numpy
+
+  - scipy
+
+  - matplotlib
+
+  - seaborn
+
+  - plotly
+
+  - scikit-learn
+
+  - jupyterlab
+
+  - notebook
+
+  - ipykernel
+
+  - pip
+
+  - pip:
+
+      - lifelines
+
+      - streamlit
