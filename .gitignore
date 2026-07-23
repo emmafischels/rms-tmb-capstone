@@ -1,16 +1,81 @@
-# Node rules:
-## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
+# ==========================
+# Python
+# ==========================
 
-## Dependency directory
-## Commenting this out is preferred by some people, see
-## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
-node_modules
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Book build output
-_book
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
 
-# eBook build output
-*.epub
-*.mobi
-*.pdf
+# ==========================
+# Jupyter
+# ==========================
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# ==========================
+# Streamlit
+# ==========================
+
+.streamlit/secrets.toml
+
+# ==========================
+# macOS
+# ==========================
+
+.DS_Store
+
+# ==========================
+# VS Code
+# ==========================
+
+.vscode/
+
+# ==========================
+# PyCharm
+# ==========================
+
+.idea/
+
+# ==========================
+# Logs
+# ==========================
+
+*.log
+
+# ==========================
+# Temporary files
+# ==========================
+
+*.tmp
+*.bak
+*.swp
+
+# ==========================
+# Python packaging
+# ==========================
+
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# Testing
+# ==========================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================
+# Figures (optional)
+# Uncomment if figures are generated automatically
+# ==========================
+
+# figures/
