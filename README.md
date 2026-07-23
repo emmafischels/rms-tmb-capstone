@@ -6,6 +6,8 @@ This project is an interactive Python application for exploring the relationship
 
 Clinical and genomic data were obtained from the publicly available MSK Precision Oncology 2023 Rhabdomyosarcoma dataset available through cBioPortal. Rather than producing a single static analysis, the application provides an interactive interface that allows users to explore the dataset, customize analyses, and generate publication-quality visualizations.
 
+Link to current working tool: https://rms-tmb-capstone-efischels.streamlit.app/
+
 ⸻
 
 ## Research Objective
