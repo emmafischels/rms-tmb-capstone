@@ -1,6 +1,6 @@
-Pediatric Rhabdomyosarcoma Tumor Mutational Burden Analysis
+# Pediatric Rhabdomyosarcoma Tumor Mutational Burden Analysis
 
-Project Overview
+## Project Overview
 
 This project is an interactive Python application for exploring the relationship between tumor mutational burden (TMB) and overall survival in pediatric rhabdomyosarcoma (RMS) patients. The application combines data preprocessing, exploratory data analysis, interactive visualization, and survival analysis into a reproducible workflow built with Streamlit.
 
@@ -8,7 +8,7 @@ Clinical and genomic data were obtained from the publicly available MSK Precisio
 
 ⸻
 
-Research Objective
+## Research Objective
 
 The primary objective of this project is to investigate whether pediatric rhabdomyosarcoma patients with higher tumor mutational burden exhibit differences in overall survival compared to patients with lower tumor mutational burden.
 
@@ -25,9 +25,9 @@ Specifically, the application allows users to:
 
 ⸻
 
-Features
+# Features
 
-Data Overview
+## Data Overview
 
 * Dataset summary
 * Variable descriptions
@@ -36,7 +36,7 @@ Data Overview
 * Descriptive statistics
 * Download processed data
 
-Exploratory Data Analysis
+## Exploratory Data Analysis
 
 Interactive visualizations including:
 
@@ -61,7 +61,7 @@ Patient-level data can be aggregated using:
 
 ⸻
 
-Survival Analysis
+# Survival Analysis
 
 The application includes an interactive survival analysis workflow featuring:
 
@@ -77,7 +77,7 @@ The application includes an interactive survival analysis workflow featuring:
 
 ⸻
 
-Dataset
+# Dataset
 
 The project uses publicly available clinical and genomic data from:
 
@@ -102,7 +102,7 @@ Variables include:
 * MSI Type
 
 ____
-Repository Structure
+# Repository Structure
 
 rms-tmb-capstone/
 │
@@ -124,7 +124,7 @@ rms-tmb-capstone/
 
 ⸻
 
-Installation
+# Installation
 
 Clone the repository
 git clone https://github.com/emmafischels/rms-tmb-capstone.git
@@ -136,7 +136,7 @@ conda activate rms-tmb-capstone
 
 ⸻
 
-Running the Application
+# Running the Application
 
 Launch the Streamlit application:
 streamlit run scripts/app.py
@@ -145,7 +145,7 @@ The application will open in your web browser and provide an interactive interfa
 
 ⸻
 
-Statistical Methods
+# Statistical Methods
 
 The application incorporates several statistical approaches including:
 
@@ -160,7 +160,7 @@ Visualizations are generated using Plotly for interactive exploration.
 
 ⸻
 
-Software
+# Software
 
 Developed using
 
@@ -175,7 +175,7 @@ Developed using
 
 ⸻
 
-Current Status
+# Current Status
 
 Current development includes:
 
@@ -191,7 +191,7 @@ Current development includes:
 
 ⸻
 
-Future Improvements
+# Future Improvements
 
 Potential future enhancements include:
 
@@ -204,7 +204,7 @@ Potential future enhancements include:
 
 ⸻
 
-Data Source
+# Data Source
 
 The clinical data used in this project are publicly available through cBioPortal.
 
@@ -212,7 +212,7 @@ Cerami E, Gao J, Dogrusoz U, et al. The cBio Cancer Genomics Portal: An Open Pla
 
 ⸻
 
-Author
+# Author
 
 Emma Fischels
 
