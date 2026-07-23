@@ -1,0 +1,7 @@
+Visualization,Required Controls,Recommended Download
+Histogram,"Analysis level, numeric variable, bins",HTML or PNG
+Scatterplot,"Analysis level, X variable, Y variable, trendline",HTML or PNG
+Boxplot,"Analysis level, numeric variable, optional category",HTML or PNG
+Violin Plot,"Analysis level, numeric variable, optional category",HTML or PNG
+Correlation Heatmap,"Analysis level, selected numeric variables, correlation method",CSV matrix and plot
+Categorical Bar Chart,"Analysis level, categorical variable",CSV frequency table and plot

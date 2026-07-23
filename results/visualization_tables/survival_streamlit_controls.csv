@@ -1,0 +1,7 @@
+Control,Options,Default
+Analysis level,Patient or Sample,Patient
+Patient TMB aggregation,"Mean, median, minimum, maximum",Mean
+TMB grouping method,"Median, custom cutoff, quartiles",Median
+Custom cutoff,Numeric input,Median TMB
+Confidence intervals,Show or hide,Show
+Display survival table,Show or hide,Show

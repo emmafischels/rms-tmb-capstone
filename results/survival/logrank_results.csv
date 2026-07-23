@@ -1,0 +1,2 @@
+Analysis,TMB Cutoff,High TMB Patients,Low TMB Patients,High TMB Deaths,Low TMB Deaths,Log-Rank Statistic,Log-Rank p-value,High TMB Median Survival,Low TMB Median Survival
+Median TMB Kaplan-Meier,1.6628699025,9,10,5,5,0.07186910724738671,0.7886345519772439,34.06,37.085

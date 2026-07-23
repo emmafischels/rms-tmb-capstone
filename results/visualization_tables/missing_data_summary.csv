@@ -1,0 +1,29 @@
+Variable,Missing Values,Percent Missing
+Metastatic Site,27,64.28571428571429
+Mutation Count,12,28.57142857142857
+Tumor Purity,4,9.523809523809524
+Age at Which Sequencing was Reported (Years),3,7.142857142857142
+Institute Source,3,7.142857142857142
+Sex,2,4.761904761904762
+MSI Score,2,4.761904761904762
+Race Category,2,4.761904761904762
+MSI Type,2,4.761904761904762
+Overall Survival (Months),2,4.761904761904762
+Event,2,4.761904761904762
+Ethnicity Category,2,4.761904761904762
+Overall Survival Status,2,4.761904761904762
+Gene Panel,0,0.0
+Cancer Type Detailed,0,0.0
+Cancer Type,0,0.0
+Patient ID,0,0.0
+Study ID,0,0.0
+Sample ID,0,0.0
+Fraction Genome Altered,0,0.0
+Sample Class,0,0.0
+Primary Tumor Site,0,0.0
+Oncotree Code,0,0.0
+Number of Samples Per Patient,0,0.0
+Sample Type,0,0.0
+Sample coverage,0,0.0
+TMB (nonsynonymous),0,0.0
+Somatic Status,0,0.0
